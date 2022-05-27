@@ -1,4 +1,3 @@
 wget
 requests
 thread6
-sys
